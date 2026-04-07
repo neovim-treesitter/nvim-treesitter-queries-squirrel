@@ -1,0 +1,8 @@
+{
+  "semver": false,
+  "min_version": null,
+  "max_version": null,
+  "location": null,
+  "lang": "squirrel",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-squirrel"
+}
