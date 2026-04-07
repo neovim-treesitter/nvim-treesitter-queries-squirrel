@@ -1,7 +1,7 @@
 {
-  "parser_version": "072c969749e66f000dba35a33c387650e203e96e",
-  "location": null,
   "lang": "squirrel",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-squirrel",
-  "semver": false
+  "semver": false,
+  "parser_version": "072c969749e66f000dba35a33c387650e203e96e",
+  "location": null
 }
